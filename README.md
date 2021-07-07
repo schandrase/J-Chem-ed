@@ -5,6 +5,7 @@ The open and close protein systems of spike protein PDBid: 6VSB and 6VXX are tak
 link: https://www.charmm-gui.org/?doc=archive&lib=covid19
 Here we have provided the system file and last 100 ns of the molecular dynamics simulation trajectory. All the simulation is performed using open source software; VMD, NAMD and chimera X. 
 
+The open conformation folder contains the log file from 100ns simulation. Use this file to compute the mean average energy for specific heat caluclation. 
 
 
 
@@ -12,3 +13,7 @@ Here we have provided the system file and last 100 ns of the molecular dynamics 
 formations. 
 
 n the current study we 
+
+
+https://user-images.githubusercontent.com/9515535/124580687-0107f680-de6e-11eb-83de-b384bfceea0a.mp4
+

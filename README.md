@@ -5,7 +5,9 @@ The open and close protein systems of spike protein PDBid: 6VSB and 6VXX are tak
 link: https://www.charmm-gui.org/?doc=archive&lib=covid19
 Here we have provided the system file and last 100 ns of the molecular dynamics simulation trajectory. All the simulation is performed using open source software; VMD, NAMD and chimera X. 
 
-The complete tutorial is available as spike_protein_tutorial.pdf. 
+The simulation data is available in zenodo repository. 
+
+The complete tutorial is available in SI of chemrxiv:  
 
 ****Enjoy thanks****
 
